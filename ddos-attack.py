@@ -14,7 +14,7 @@ os.system("figlet Attack Starting")
 
 
 ip = input("IP Target : ")
-port = input("Port       : ")
+port = int(input("Port       : "))
 
 print("Starting Attack :")
 
